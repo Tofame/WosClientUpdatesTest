@@ -1,12 +1,13 @@
 {
-  "newestVersion": "v10",
-  "url": "http://github.com/Tofame/WosClientUpdates/releases/download/",
+  "newestVersion": "11",
+  "url": "http://github.com/Tofame/WosClientUpdatesTest/releases/download/",
   "files": {
-    "data.zip": "fd5deb80"
+    "data.zip": "437f799e"
   },
-  "keepFiles": false,
   "binary": {
-      "fileDx": "otclient_dx_x64",
-      "checksumDx": "88d165bc"
+    "fileGl": "otclient_gl_x64",
+    "fileDx": "otclient_dx_x64",
+    "checksumGl": "f94dd6c8",
+    "checksumDx": "398b9431"
   }
 }
