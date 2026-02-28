@@ -1,0 +1,12 @@
+{
+  "newestVersion": "v10",
+  "url": "http://github.com/Tofame/WosClientUpdates/releases/download/",
+  "files": {
+    "data.zip": "fd5deb80"
+  },
+  "keepFiles": false,
+  "binary": {
+      "fileDx": "otclient_dx_x64",
+      "checksumDx": "88d165bc"
+  }
+}
